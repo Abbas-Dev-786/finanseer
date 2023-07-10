@@ -1,5 +1,5 @@
 // eslint-disable-next-line
-import { Palette, PaletteColor } from "@mui/material/styles/createPalette";
+import "@material-ui/core/styles";
 
 declare module "@mui/material/styles/createPalette" {
   interface PaletteColor {
